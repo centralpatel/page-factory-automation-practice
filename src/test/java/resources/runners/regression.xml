@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite" verbose="1">
+    <groups>
+        <run>
+            <include name="regression"></include>
+        </run>
+    </groups>
+    <test name="regression">
+        <classes>
+            <class name="com.automation.testsuite.CreateAccountPageTest"></class>
+            <class name="com.automation.testsuite.SignInPageTest"></class>
+            <class name="com.automation.testsuite.WomenCategoryPageTest"></class>
+        </classes>
+    </test>
+</suite>

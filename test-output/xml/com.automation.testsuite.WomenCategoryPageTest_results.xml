@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JobSearch Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="36.111">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToWomenCategoryPageSuccessfully" time="1.825" classname="com.automation.testsuite.WomenCategoryPageTest" />
+                <testcase name="verifyUserShouldAddProductToTheCartSuccessfully" time="8.760" classname="com.automation.testsuite.WomenCategoryPageTest" />
+                <testcase name="verifyUserShouldAddProductToTheCartSuccessfully" time="7.777" classname="com.automation.testsuite.WomenCategoryPageTest" />
+                <testcase name="verifyUserShouldAddProductToTheCartSuccessfully" time="10.065" classname="com.automation.testsuite.WomenCategoryPageTest" />
+                <testcase name="verifyUserShouldAddProductToTheCartSuccessfully" time="7.684" classname="com.automation.testsuite.WomenCategoryPageTest" />
+      
+</testsuite>

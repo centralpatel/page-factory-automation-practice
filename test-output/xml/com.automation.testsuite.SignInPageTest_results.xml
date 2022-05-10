@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JobSearch Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.417">
+  <properties />
+  
+  
+            <testcase name="VerifyThatUserShouldLogOutSuccessFully" time="8.335" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="2.989" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="2.218" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="userShouldNavigateToSignInPageSuccessFully" time="1.571" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyThatUserShouldLogInSuccessFullyWithValidCredentials" time="3.560" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="2.383" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="2.361" classname="com.automation.testsuite.SignInPageTest" />
+      
+</testsuite>
